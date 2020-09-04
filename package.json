@@ -19,7 +19,7 @@
     "url": "git+https://github.com/Sotatek-AnhDao/bitcore-p2p-value.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
     "bitcore-lib": "^8.22.2",
