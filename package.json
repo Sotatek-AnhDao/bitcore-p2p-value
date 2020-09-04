@@ -16,7 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitpay/bitcore-p2p.git"
+    "url": "https://github.com/Sotatek-AnhDao/bitcore-p2p-value"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "bitcore-lib": "^8.22.2",
