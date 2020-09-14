@@ -4,9 +4,9 @@
 [![Build Status](https://img.shields.io/travis/bitpay/bitcore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-p2p)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-p2p.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-p2p?branch=master)
 
-**The peer-to-peer networking protocol for BTC.**
+**The peer-to-peer networking protocol for BIV.**
 
-`bitcore-p2p` adds [Bitcoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) support for Bitcore.
+`bitcore-p2p` adds [Bitcoin Value protocol](https://en.bitcoin.it/wiki/Protocol_documentation) support for Bitcore.
 
 See [the main bitcore repo](https://github.com/bitpay/bitcore) for more information.
 
@@ -16,7 +16,7 @@ See [the main bitcore repo](https://github.com/bitpay/bitcore) for more informat
 npm install bitcore-p2p
 ```
 
-In order to connect to the Bitcoin network, you'll need to know the IP address of at least one node of the network, or use [Pool](./docs/pool.md) to discover peers using a DNS seed.
+In order to connect to the Bitcoin Value network, you'll need to know the IP address of at least one node of the network, or use [Pool](./docs/pool.md) to discover peers using a DNS seed.
 
 ```javascript
 var Peer = require('bitcore-p2p').Peer;
