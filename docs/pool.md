@@ -7,7 +7,7 @@ The quickest way to get connected is to run the following:
 ```javascript
 
 var Pool = require('bitcore-p2p').Pool;
-var Networks = require('bitcore-lib').Networks;
+var Networks = require('@sotatek-anhdao/bitcore-lib-value').Networks;
 
 var pool = new Pool({network: Networks.livenet});
 
