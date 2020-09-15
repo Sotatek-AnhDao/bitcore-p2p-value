@@ -1,6 +1,6 @@
 {
   "name": "@sotatek-anhdao/bitcore-p2p-value",
-  "version": "8.22.4",
+  "version": "8.22.5",
   "description": "Interface to the Bitcoin Value P2P network for bitcore",
   "main": "index.js",
   "scripts": {
