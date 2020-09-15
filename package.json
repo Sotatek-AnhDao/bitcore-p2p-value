@@ -22,7 +22,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@sotatek-anhdao/bitcore-p2p-value": "8.22.6",
+    "@sotatek-anhdao/bitcore-lib-value": "8.22.6",
     "bloom-filter": "^0.2.0",
     "buffers": "github:bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
